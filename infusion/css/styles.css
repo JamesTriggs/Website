@@ -924,7 +924,7 @@ color: #fff;
 footer {
     background-color: #242a2c;
     padding: 50px 0 250px 0;
-    color: #454e51;
+    color: #D8D8D8;
 }
 footer h2 {
     font-size: 24px;
@@ -933,13 +933,13 @@ footer h2 {
     list-style: none;
 }
 .footer-links li a{
-    color: #454e51;
+    color: #D8D8D8;
     margin-bottom: 15px;
     display: block;
     font-weight: 600;
 }
 .footer-links li a:hover {
-    color: #687579;
+    color: #FFFFFF;
     text-decoration: none;
 }
 .banner { 
